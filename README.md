@@ -1,2 +1,2 @@
-# first-repo
+# First-repo
 #Hello world
